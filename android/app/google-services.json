@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924950280349",
+    "project_id": "flash-chat-2cd9d",
+    "storage_bucket": "flash-chat-2cd9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924950280349:android:b136adb5477f6136fabc74",
+        "android_client_info": {
+          "package_name": "org.andresalba.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924950280349-93nftjuk9404rl5tqp3rddrokqa0jtcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNhVet7RYukc8HDpmUFFN_6PUTgFc89g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924950280349-93nftjuk9404rl5tqp3rddrokqa0jtcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
