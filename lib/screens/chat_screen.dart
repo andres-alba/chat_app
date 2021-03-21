@@ -3,6 +3,10 @@ import 'package:chat_app/constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
+//check rules in Fire Store
+
+//enable read/write only with authentication
+
 final _firestore = FirebaseFirestore.instance;
 User loggedInUser;
 
